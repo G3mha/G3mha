@@ -25,10 +25,11 @@ Hello there! I'm Enricco Gemha, a Junior Software Developer from Brazil. Since I
 Programming since 2019, I've tasted projects in multiple languages and frameworks, like Python, CSS, JavaScript (and JQuery), C, Java and, lately, I'm exploring the world of React. Currently, taking Computer Engineering on [Insper (São Paulo-Brazil)](https://www.insper.edu.br/en/). I decided to follow the Developer career to contribute on the computational technologies expansion, which will help improving the quality of life in our society.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
-- 💬 ask me about anything, i am happy to help;
+💼 Got a job for me? Reach me out on: [riccogemha@gmail.com](mailto:riccogemha@gmail.com).
+
+💬 Wanna chat or discuss about something, check one of my social medias above.
 
 **languages and tools:**  
 
