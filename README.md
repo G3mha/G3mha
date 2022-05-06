@@ -56,4 +56,4 @@ Wanna chat or discuss about something, check one of my social medias above.
 
 <h1 align="center" style="font-family:tr2ntr2n">GitHub Stats</h1>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=G3mha&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G3mha&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=G3mha&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<p>  </p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G3mha&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs)
