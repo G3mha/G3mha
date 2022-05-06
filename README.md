@@ -31,7 +31,7 @@ Programming since 2019, I've tasted projects in multiple languages and framework
 
 💬 Wanna chat or discuss about something, check one of my social medias above.
 
-<h1 align="center">Languages arsenal</h1>
+<h1 align="center">Languages & Tools arsenal</h1>
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
