@@ -1,19 +1,21 @@
-<h1 align="center">Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">
+    <img align="center" alt="GitHub" width="35px" src="img/github_logo.png"/> Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</h1>
 
 <a href="https://www.instagram.com/enriccogemha/">
-    <img align="left" alt="Enricco Gemha's Instagram" width="22px" src="img/instagram_logo.png"/>
+    <img align="left" alt="Enricco Gemha's Instagram" width="35px" src="img/instagram_logo.png"/>
 </a>
 
 <a href="https://discordapp.com/users/723560063981060189/">
-    <img align="left" alt="Enricco Gemha's Discord" width="30px" src="img/discord_logo.png"/>
+    <img align="left" alt="Enricco Gemha's Discord" width="35px" src="img/discord_logo.png"/>
 </a>
 
 <a href="https://twitter.com/gemhadventures">
-    <img align="left" alt="Enricco Gemha's Twitter" width="23px" src="img/twitter_logo.png"/>
+    <img align="left" alt="Enricco Gemha's Twitter" width="35px" src="img/twitter_logo.png"/>
 </a>
 
 <a href="https://www.linkedin.com/in/enriccogemha/">
-    <img align="left" alt="Enricco Gemha's LinkedIN" width="26px" src="img/linkedin_logo.png"/>
+    <img align="left" alt="Enricco Gemha's LinkedIN" width="35px" src="img/linkedin_logo.png"/>
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=G3mha.G3mha)
@@ -27,9 +29,11 @@ Programming since 2019, I've tasted projects in multiple languages and framework
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
   
-💼 Got a job for me? Reach me out on: [riccogemha@gmail.com](mailto:riccogemha@gmail.com).
+<br />
 
-💬 Wanna chat or discuss about something, check one of my social medias above.
+Got a job for me? Reach me out on: [riccogemha@gmail.com](mailto:riccogemha@gmail.com).
+
+Wanna chat or discuss about something, check one of my social medias above.
 
 <h1 align="center">Languages & Tools arsenal</h1>
 
@@ -44,7 +48,7 @@ Programming since 2019, I've tasted projects in multiple languages and framework
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📈 my github stats
+<h1 align="center">Strong Stats</h1>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=G3mha&show_icons=true&theme=gotham" alt="G3mha stats" />
 
