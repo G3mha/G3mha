@@ -28,7 +28,7 @@
 
 <br />
 
-Hello there! I'm Enricco Gemha, a Junior Software Developer from Brazil. Since I was little, I was allured by the realm of digital techs and dreamed about being on the other side, developing the technologies I consume.
+Hello there! I'm **Enricco Gemha**, a Junior Software Developer from 🇧🇷. Since I was little, I was allured by the realm of digital techs and dreamed about being on the other side, developing the technologies I consume.
 
 Programming since 2019, I've tasted projects in multiple languages and frameworks, like Python, CSS, JavaScript (and JQuery), C, Java and, lately, I'm exploring the world of React. Currently, taking Computer Engineering on [Insper (São Paulo-Brazil)](https://www.insper.edu.br/en/). I decided to follow the Developer career to contribute on the computational technologies expansion, which will help improving the quality of life in our society.
 
