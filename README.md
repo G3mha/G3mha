@@ -1,7 +1,7 @@
 <link href="font/stylesheet.css" rel="stylesheet">
 
 <h1 align="center" style="font-family:tr2ntr2n">
-    <img align="center" alt="GitHub" width="35px" src="img/github_logo.png"/> Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+    <img align="center" alt="GitHub" width="35px" src="img/github_logo.png"/> Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
 </h1>
 
 <a href="https://wa.me/5511941181001" target=”_blank”>
