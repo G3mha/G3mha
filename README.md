@@ -1,7 +1,7 @@
 <link href="font/stylesheet.css" rel="stylesheet">
 
 <h1 align="center" style="font-family:tr2ntr2n">
-    <img align="center" alt="GitHub" width="35px" src="img/github_logo.png"/> Hello there! <img src="https://drive.google.com/file/d/15EYCVjsXsAqdbiWYOLkxeMe4fONtchQx/view?usp=sharing" style="width:35px;height:35px;">
+    <img align="center" alt="GitHub" width="35px" src="img/github_logo.png"/> Hello there! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" style="width:35px;height:35px;">
 </h1>
 
 <a href="https://wa.me/5511941181001" target=”_blank”>
