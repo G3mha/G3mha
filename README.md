@@ -24,6 +24,10 @@
     <img align="left" alt="Enricco Gemha's LinkedIN" width="35px" src="img/linkedin_logo.png"/>
 </a>
 
+<a href="https://hashnode.com/@G3mha/">
+    <img align="left" alt="Enricco Gemha's HashNode" width="35px" src="img/hashnode_logo.png"/>
+</a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=G3mha.G3mha)
 
 <br />
