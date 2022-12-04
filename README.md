@@ -37,7 +37,7 @@ Hello there! I'm **Enricco Gemha**, a Junior Software Developer from 🇧🇷. S
 Programming since 2019, I've tasted projects in multiple languages and frameworks, like Python, CSS, JavaScript (and JQuery), C, Java and, lately, I'm exploring the world of React. Currently, taking Computer Engineering on [Insper (São Paulo-Brazil)](https://www.insper.edu.br/en/). I decided to follow the Developer career to contribute on the computational technologies expansion, which will help improving the quality of life in our society.
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" style="width:500px;heeight:320px;" />
   
 <br />
 
