@@ -70,6 +70,7 @@ Wanna chat or discuss about something, check one of my social medias above.
 
 <h1 align="left" style="font-family:tr2ntr2n">My Stats</h1>
 
-<a href="https://app.daily.dev/G3mha"><img src="https://api.daily.dev/devcards/1117d4adb972435d89d629beb2e58569.png?r=p1v" width="200" alt="Enricco Gemha's Dev Card"/></a>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=G3mha&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G3mha&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs)
+
+GitHub Streak             |  Top Langs
+:-------------------------:|:-------------------------:
+![](http://github-readme-streak-stats.herokuapp.com?user=G3mha&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=G3mha&theme=dracula)
