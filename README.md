@@ -59,12 +59,16 @@ Wanna chat or discuss about something, check one of my social medias above.
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <h1 align="left" style="font-family:tr2ntr2n">Tournaments</h1>
+<h3>RoboCup 2022 in Bangkok, Thailand 🇹🇭</h3>
+<p>4th in Rescue RMRC and best sensoring in the competition!</p>
 
 <a href="https://2022.robocup.org/">
-    <img align="left" alt="RoboCup2022 Thailand photo" width="500px" src="img/IMG-20220712-WA0028.jpg"/>
+    <img align="center" alt="RoboCup2022 Thailand photo" width="750px" src="img/IMG-20220712-WA0028.jpg"/>
 </a>
 
-<h1 align="right" style="font-family:tr2ntr2n">My Stats</h1>
+<br />
+
+<h1 align="left" style="font-family:tr2ntr2n">My Stats</h1>
 
 <a href="https://app.daily.dev/G3mha"><img src="https://api.daily.dev/devcards/1117d4adb972435d89d629beb2e58569.png?r=p1v" width="200" alt="Enricco Gemha's Dev Card"/></a>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=G3mha&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
