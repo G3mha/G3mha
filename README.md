@@ -71,6 +71,6 @@ Wanna chat or discuss about something, check one of my social medias above.
 <h1 align="left" style="font-family:tr2ntr2n">My Stats</h1>
 
 
-GitHub Streak             |  Top Langs
+Gamer-Card             |  Top Langs
 :-------------------------:|:-------------------------:
-![](http://github-readme-streak-stats.herokuapp.com?user=G3mha&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=G3mha&theme=dracula)
+![](https://card.exophase.com/2/0/233579.png?1695318820)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=G3mha&theme=dracula)
