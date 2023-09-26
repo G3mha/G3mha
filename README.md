@@ -61,15 +61,24 @@ Wanna chat or discuss about something, check one of my social medias above.
 
 <h1 align="left" style="font-family:tr2ntr2n">Tournaments</h1>
 <h3>RoboCup 2022 in Bangkok, Thailand 🇹🇭</h3>
-<p>4th in Rescue RMRC and best sensoring in the competition!</p>
+<p>4th out of 8 in Rescue RMRC and best sensoring in the competition!</p>
 
-<a href="https://2022.robocup.org/">
+<a href="https://robocup.org/">
     <img align="center" alt="RoboCup2022 Thailand photo" width="750px" src="img/IMG-20220712-WA0028.jpg"/>
+</a>
+
+
+<h3>RoboCup 2023 in Bordeaux, France 🇫🇷</h3>
+<p>4th out of 11 in Rescue RMRC and best mapping in the competition!</p>
+
+<a href="https://robocup.org/">
+    <img align="center" alt="RoboCup2023 Bordeaux photo" width="750px" src="img/DIA01_20230629_142644.jpg"/>
 </a>
 
 <br />
 
 <h1 align="left" style="font-family:tr2ntr2n">My Stats</h1>
+
 
 
 Gamer-Card             |  Top Langs
