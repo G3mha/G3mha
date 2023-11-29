@@ -32,12 +32,14 @@
 
 <br />
 
-Hello there! I'm **Enricco Gemha**, a Junior Software Developer from 🇧🇷. Since I was little, I was allured by the realm of digital techs and dreamed about being on the other side, developing the technologies I consume.
+Hello there! I'm **Enricco Gemha**, a Software Engineer from 🇧🇷. Since I can remember, I have been allured by the realm of digital techs and games, but, back then, I could only dream about being on the other side, developing those technologies.
 
-Programming since 2019, I've tasted projects in multiple languages and frameworks, like Python (ROS & OpenCV, Pandas, Django & DjangoRest), JS (Vanilla & React), C and Java. Currently, taking Computer Engineering on [Insper (São Paulo-Brazil)](https://www.insper.edu.br/en/). I decided to follow the Developer career to contribute on the computational technologies expansion, which will help improving the quality of life in our society.
+Coding since 2019, I've tasted projects in multiple languages and frameworks, like Python (ROS & OpenCV, Pandas & Spark, Django & DjangoRest), JS (Vanilla & React), C and Java. Currently, I'm taking Computer Engineering at [Insper (São Paulo-Brazil)](https://www.insper.edu.br/en/). My main goal as a Software Developer is to contribute to the expansion of digital technologies, which will help improving the quality of life in our society.
 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" style="width:500px;heeight:320px;" />
+
+
   
 <br />
 
