@@ -96,13 +96,17 @@ Wanna chat or discuss about something, check one of my social medias above.
 
 ## My Stats
 
-| Top Langs |
+| Current Streak 🔥 |
 | :-------------------------: |
-| ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=g3mha&theme=dark&include_all_commits=true&count_private=true) |
+| ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=g3mha&theme=dark&include_all_commits=true&count_private=true) |
 
 | GitHub Stats |
 | :-------------------------: |
 | ![Top Langs](https://github-readme-stats.vercel.app/api?username=g3mha&show_icons=true&theme=dark&include_all_commits=true&count_private=true") |
+
+| Top Langs |
+| :-------------------------: |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g3mha&layout=compact&show_icons=true&theme=dark&langs_count=8&hide=jupyter%20notebook,tex,css,php&) |
 
 | Gamer-Card |
 | :-------------------------: |
