@@ -76,38 +76,36 @@ Wanna chat or discuss about something, check one of my social medias above.
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-## Tournaments
+---
 
-### RoboCup 2022 in Bangkok, Thailand 🇹🇭
+<details align="center">
+  <summary>🛫 International Achievements 🛬</summary>
 
-4th out of 8 in Rescue RMRC and best sensoring in the competition!
+  <details>
+    <summary>RoboCup 2022 in Bangkok, Thailand 🇹🇭</summary>
+    <p>4th out of 8 in Rescue RMRC and best sensoring in the competition!</p>
+    <a href="https://robocup.org/">
+      <img align="center" alt="RoboCup2022 Thailand photo" width="750px" src="img/RoboCup22.jpg"/>
+    </a>
+  </details>
 
-<a href="https://robocup.org/">
-    <img align="center" alt="RoboCup2022 Thailand photo" width="750px" src="img/IMG-20220712-WA0028.jpg"/>
-</a>
+  <details>
+    <summary>RoboCup 2023 in Bordeaux, France 🇫🇷</summary>
+    <p>4th out of 11 in Rescue RMRC and best mapping in the competition!</p>
+    <a href="https://robocup.org/">
+        <img align="center" alt="RoboCup2023 Bordeaux photo" width="750px" src="img/RoboCup23.jpg"/>
+    </a>
+  </details>
+</details>
 
-### RoboCup 2023 in Bordeaux, France 🇫🇷
+---
 
-4th out of 11 in Rescue RMRC and best mapping in the competition!
+<details align="center">
+  <summary>📈 GitHub Stats 📉</summary>
+  
+  ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=g3mha&theme=dark&include_all_commits=true&count_private=true)
 
-<a href="https://robocup.org/">
-    <img align="center" alt="RoboCup2023 Bordeaux photo" width="750px" src="img/DIA01_20230629_142644.jpg"/>
-</a>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=g3mha&show_icons=true&theme=dark&include_all_commits=true&count_private=true")
 
-## My Stats
-
-| Current Streak 🔥 |
-| :-------------------------: |
-| ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=g3mha&theme=dark&include_all_commits=true&count_private=true) |
-
-| GitHub Stats |
-| :-------------------------: |
-| ![Top Langs](https://github-readme-stats.vercel.app/api?username=g3mha&show_icons=true&theme=dark&include_all_commits=true&count_private=true") |
-
-| Top Langs |
-| :-------------------------: |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g3mha&layout=compact&show_icons=true&theme=dark&langs_count=8&hide=jupyter%20notebook,tex,css,php&) |
-
-| Gamer-Card |
-| :-------------------------: |
-| ![Gamer Card](https://card.exophase.com/2/0/233579.png?1695318820) |
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g3mha&layout=compact&show_icons=true&theme=dark&langs_count=8&hide=jupyter%20notebook,tex,css,php&)
+</details>
