@@ -2,9 +2,6 @@
   Hi <img src="img/wavin_hand.gif" alt="hi gif" width="33">, I'm Enricco a 🇧🇷 software engineer!
 </h1>
 
-<details align="middle">
-  <summary>Open profile</summary>
-
 <br />
 
 [comment]: <> (View Counter)
@@ -16,7 +13,7 @@
 
 [comment]: <> (Links to programming languages)
 <h3 align="center"><b>👨‍💻 Tech Stack 🔨</h3>
-<p align="center"> 
+<p align="center">
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -104,14 +101,13 @@
   </a>
 
   <br />
-  
+
   <h3 align="center"><b>🇫🇷 RoboCup 2023 in Bordeaux, France 🇫🇷</h3>
   <p align="center">4th out of 11 teams in Rescue RMRC and best mapping in the competition!</p>
   <a href="https://robocup.org/">
       <img align="center" alt="RoboCup2023 Bordeaux photo" width="500px" src="img/RoboCup23.jpg"/>
   </a>
 
-</details>
 </details>
 
 ---
