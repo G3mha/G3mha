@@ -2,8 +2,6 @@
   Hi <img src="img/wavin_hand.gif" alt="hi gif" width="33">, I'm Enricco a 🇧🇷 software engineer!
 </h1>
 
-<br />
-
 [comment]: <> (View Counter)
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=g3mha&label=Visits&color=000000&style=flat" alt="g3mha"/> </p>
 
