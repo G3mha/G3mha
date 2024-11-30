@@ -57,7 +57,7 @@
 
 [comment]: <> (Links to other computer related stuff)
 <h3 align="center"><b>📱 Projects Developed 💻</h3>
-<p align="center"><a href="https://dev.pergamon.com.br" target="_blank"><img src="img/pergamon.jpg" alt="MCC" width="100"/></a></p>
+<p align="center"><a href="https://pergamon.com.br" target="_blank"><img src="img/pergamon.jpg" alt="MCC" width="100"/></a></p>
 
 <br />
 
