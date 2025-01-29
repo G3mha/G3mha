@@ -24,7 +24,6 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-000000?style=for-the-badge&logo=apache-spark&logoColor=white)
 
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
@@ -74,6 +73,19 @@
 </details>
 
 ## 🏆 Achievements
+
+### 🇺🇸 Olin College of Engineering & Babson College
+
+- Exchange student in Spring 2025
+
+### 🇺🇸 Stanford University
+
+- Summer Session 2024
+
+### 🧠 AWS DeepRacer League (October 2022)
+
+- 1st place in Brazil 🇧🇷
+- 13st place in the world 🌎
 
 ### 🤖 RoboCup 2022 (Bangkok, Thailand 🇹🇭)
 
