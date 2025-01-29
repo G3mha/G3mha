@@ -99,5 +99,7 @@
 
 <br />
 
-<img align="center" alt="RoboCup2022 Thailand photo" width="250px" src="img/RoboCup22.jpg"/>
-<img align="center" alt="RoboCup2023 Bordeaux photo" width="250px" src="img/RoboCup23.jpg"/>
+<p>
+  <img align="center" alt="RoboCup2022 Thailand photo" width="250px" src="img/RoboCup22.jpg"/>
+  <img align="center" alt="RoboCup2023 Bordeaux photo" width="250px" src="img/RoboCup23.jpg"/>
+</p>
