@@ -66,10 +66,6 @@
 
 <a href="https://pergamon.com.br" target="_blank"><img src="img/pergamon.jpg" alt="MCC" width="100"/></a>
 
-## 📈 Stats
-
-![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=g3mha&theme=dark&include_all_commits=true&count_private=true)
-
 </details>
 
 ## 🏆 Achievements
