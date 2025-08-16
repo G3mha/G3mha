@@ -4,6 +4,12 @@
 
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=g3mha&label=Visits&color=000000&style=flat" alt="g3mha"/> </p>
 
+## 📜 Certifications
+
+<a href="https://www.credly.com/badges/93f53b4d-ed60-47e9-abdd-bc266ec1bf42/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="150"/>
+</a>
+
 ## 👨‍💻 Tech Stack
 
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
