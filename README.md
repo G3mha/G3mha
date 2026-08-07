@@ -110,7 +110,7 @@
 <p>
   <img align="center" alt="Brown selfie in the Van Wickle Gates" width="250px" src="img/brown.jpg"/>
   <img align="center" alt="Olin College portrait at the entrance" width="250px" src="img/olin.jpg"/>
-  <img align="center" alt="Stanford portrait in Main Quad" width="250px" src="img/stanford.jpg"/>
+  <img align="center" alt="Stanford portrait in Main Quad" width="190px" src="img/stanford.jpg"/>
   <img align="center" alt="RoboCup2023 Bordeaux team photo" width="250px" src="img/RoboCup23.jpg"/>
   <img align="center" alt="RoboCup2022 Thailand team photo" width="250px" src="img/RoboCup22.jpg"/>
 </p>
