@@ -88,8 +88,8 @@
 
 **Founder** @ OpenGiving &nbsp;·&nbsp; _May 2025 – Jun 2026_
 
-- Built a hybrid personal-fundraising + marketplace platform — FastAPI/Prisma backend, Next.js frontend, and Stripe Connect escrow.
-- Ran it on AWS (ECS Fargate, RDS, CloudFront), fully provisioned with Terraform.
+- Founded the platform and took it to production across web, iOS, and Android.
+- Designed the Stripe Connect escrow wallet that automatically splits funds between sellers and charitable campaigns, plus Google Maps geospatial matching — backend built TDD-first.
 
 **Cloud Security Engineer, Capstone** @ PinPag &nbsp;·&nbsp; _Jul 2024 – Dec 2024_
 
@@ -105,7 +105,7 @@
 
 | Project | What it is | Links |
 | --- | --- | --- |
-| **OpenGiving** | Hybrid personal-fundraising + marketplace platform I founded — FastAPI/Prisma backend, Next.js frontend, and Stripe Connect escrow, on AWS (ECS Fargate, RDS, CloudFront) provisioned with Terraform. Shipped with native iOS (Swift) and Android (Kotlin) apps. | [Website](https://opengiving.me) · [App Store](https://apps.apple.com/us/app/opengiving-donate-shop/id6756851957) · [Google Play](https://play.google.com/store/apps/details?id=me.opengiving.android) |
+| **OpenGiving** | Hybrid personal-fundraising + marketplace platform — FastAPI/Prisma backend, Next.js frontend, and Stripe Connect escrow, on AWS (ECS Fargate, RDS, CloudFront) provisioned with Terraform. Shipped with native iOS (Swift) and Android (Kotlin) apps. | [Website](https://opengiving.me) · [App Store](https://apps.apple.com/us/app/opengiving-donate-shop/id6756851957) · [Google Play](https://play.google.com/store/apps/details?id=me.opengiving.android) |
 | **Trophy Rooms** | Cross-platform Nintendo Switch achievement & trophy tracker — a Next.js/TypeScript web app (Prisma + PostgreSQL, Clerk auth), a TypeScript GraphQL backend, and a native iOS app (Swift). | [Website](https://trophyrooms.org) · [App Store](https://apps.apple.com/us/app/trophy-rooms/id6799829599) · [Web repo](https://github.com/G3mha/trophy-rooms-web) · [Backend repo](https://github.com/G3mha/trophy-rooms-backend) |
 | **Nostalgi** | Multi-vendor marketplace for retro games, modded hardware, and gaming TCGs — an Astro + React storefront and a Go (chi) API on Supabase, with Stripe Connect payouts. | [Website](https://getnostalgi.com) |
 | **PacBag** | iOS travel-packing app (Swift/SwiftUI) — create digital twins of your luggage and track items across multiple bags so you never forget essentials. | [Website](https://pacbag.app) · [App Store](https://apps.apple.com/us/app/pacbag-digital-luggage/id6749021887) |
