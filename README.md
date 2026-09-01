@@ -75,17 +75,25 @@
 
 ## 💼 Experience
 
-**iOS Engineer · Software Engineer @ DAERO** — Sep 2025 to Jul 2026
-Primary engineer on the production iOS app (Swift/SwiftUI) with 262 merged PRs (~80% of the codebase history) as the platform scaled from 3 to 25 construction projects and 1,000+ field users. Built the offline-first data layer (SQLite/GRDB) and, solo, an OpenTelemetry → ClickHouse/Prometheus/Grafana observability backbone.
+**iOS Engineer · Software Engineer** @ DAERO &nbsp;·&nbsp; _Sep 2025 – Jul 2026_
 
-**Founder @ OpenGiving** — May 2025 to Jun 2026
-Built a hybrid personal-fundraising + marketplace platform: FastAPI/Prisma backend, Next.js frontend, and Stripe Connect escrow, running on AWS (ECS Fargate, RDS, CloudFront) provisioned with Terraform.
+- Primary engineer on the production iOS app (Swift/SwiftUI): 262 merged PRs (~80% of the codebase history) as the platform scaled from 3 to 25 construction projects and 1,000+ field users.
+- Built the offline-first data layer (SQLite/GRDB) and, solo, an OpenTelemetry → ClickHouse/Prometheus/Grafana observability backbone.
 
-**Cloud Security Engineer, Capstone @ PinPag** — Jul 2024 to Dec 2024
-Rebuilt AWS ETL pipelines (Glue/Lambda/Athena) processing 15.9 GB of daily cost reports, deployed a ModSecurity + AWS WAF handling 10K+ daily requests, and added SAST scanning to a GitLab CI/CD pipeline.
+**Founder** @ OpenGiving &nbsp;·&nbsp; _May 2025 – Jun 2026_
 
-**Software Developer Intern @ QI Tech** — Jul 2024 to Nov 2024
-Built Python (SQLAlchemy/Falcon) APIs generating Brazil Central Bank regulatory reports from billion-row PostgreSQL tables, cutting 100+ hours of manual work; deployed infrastructure with Terraform.
+- Built a hybrid personal-fundraising + marketplace platform — FastAPI/Prisma backend, Next.js frontend, and Stripe Connect escrow.
+- Ran it on AWS (ECS Fargate, RDS, CloudFront), fully provisioned with Terraform.
+
+**Cloud Security Engineer, Capstone** @ PinPag &nbsp;·&nbsp; _Jul 2024 – Dec 2024_
+
+- Rebuilt AWS ETL pipelines (Glue/Lambda/Athena) processing 15.9 GB of daily cost reports.
+- Deployed a ModSecurity + AWS WAF handling 10K+ daily requests, and added SAST scanning to a GitLab CI/CD pipeline.
+
+**Software Developer Intern** @ QI Tech &nbsp;·&nbsp; _Jul 2024 – Nov 2024_
+
+- Built Python (SQLAlchemy/Falcon) APIs generating Brazil Central Bank regulatory reports from billion-row PostgreSQL tables, cutting 100+ hours of manual work.
+- Deployed the supporting infrastructure with Terraform.
 
 ## 💻 Projects Developed
 
