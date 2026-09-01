@@ -112,7 +112,7 @@
 | **Lua Compiler** | A Lua-to-x86-assembly compiler written from scratch in Swift — lexer, parser, and code generation. | [Repo](https://github.com/G3mha/lua-compiler) |
 | **Genetic Programming** | Tree-based genetic programming implemented **from scratch in Swift** — parse-tree representation, tournament selection, elitism, and subtree crossover/mutation — then benchmarked head-to-head against a Python implementation on runtime and accuracy. | [Repo](https://github.com/G3mha/genetic-programming) |
 | **Pokémon TCG Network Analysis** | Network-science study of the competitive Pokémon TCG scene — web-scraped LimitlessTCG tournament data modeled as a card network, with regression on how card centrality relates to player rankings (Python/Jupyter). | [Repo](https://github.com/G3mha/pokemon-tcg-network-analysis) |
-| **AWS + Terraform Full-Stack Web App** | CRUD app (FastAPI + SQLAlchemy + MySQL) with AWS infrastructure deployed automatically via Terraform. | [Repo](https://github.com/G3mha/aws-terraform-fullstack-webapp) |
+| **AWS + Terraform Infrastructure** | End-to-end AWS infrastructure as code with Terraform — ALB, EC2, RDS MySQL, IAM, security groups, and a Locust load-testing rig, provisioned from scratch. | [Repo](https://github.com/G3mha/aws-terraform-fullstack-webapp) |
 | **pwcracker** | A C tool for cracking shadow files via dictionary, rainbow-table, and brute-force techniques. | [Repo](https://github.com/G3mha/pwcracker) |
 
 ## 🏆 Achievements
