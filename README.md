@@ -75,9 +75,7 @@
 
 ## 💻 Projects Developed
 
-<a href="https://pergamon.com.br" target="_blank"><img src="img/pergamon.jpg" alt="MCC" width="100"/></a>
-
-</details>
+<a href="https://pergamon.com.br" target="_blank"><img src="img/pergamon.jpg" alt="Pergamon" width="100"/></a>
 
 ## 🏆 Achievements
 
@@ -106,7 +104,7 @@
 ### 🇧🇷 AWS DeepRacer League (2022)
 
 - 1st place in Brazil
-- 13st place in the world
+- 13th place in the world
 
 <br />
 
