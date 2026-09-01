@@ -84,7 +84,7 @@
 **iOS Engineer · Software Engineer** @ DAERO &nbsp;·&nbsp; _Sep 2025 – Jul 2026_
 
 - Primary engineer on the production iOS app (Swift/SwiftUI): 262 merged PRs (~80% of the codebase history) as the platform scaled from 3 to 25 construction projects and 1,000+ field users.
-- Built the offline-first data layer (SQLite/GRDB) and, solo, an OpenTelemetry → ClickHouse/Prometheus/Grafana observability backbone.
+- Built the offline-first data layer (SQLite/GRDB), and single-handedly delivered an OpenTelemetry → ClickHouse/Prometheus/Grafana observability backbone.
 
 **Founder** @ OpenGiving &nbsp;·&nbsp; _May 2025 – Jun 2026_
 
