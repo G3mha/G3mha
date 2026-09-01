@@ -99,10 +99,11 @@
 
 | Project | What it is | Links |
 | --- | --- | --- |
-| **OpenGiving** | Hybrid personal-fundraising + marketplace platform I founded — FastAPI backend, Next.js frontend, and Stripe Connect escrow, running on AWS (ECS Fargate, RDS, CloudFront) provisioned with Terraform. | [Website](https://opengiving.me) |
-| **Trophy Rooms** | Social platform for collectors, spanning iOS (Swift), a TypeScript backend, and a web client. | [Live app](https://trophy-rooms-web.vercel.app) |
+| **OpenGiving** | Hybrid personal-fundraising + marketplace platform I founded — FastAPI/Prisma backend, Next.js frontend, and Stripe Connect escrow, on AWS (ECS Fargate, RDS, CloudFront) provisioned with Terraform. | [Website](https://opengiving.me) |
+| **Trophy Rooms** | Cross-platform Nintendo Switch achievement & trophy tracker — a Next.js/TypeScript web app (Prisma + PostgreSQL, Clerk auth), a TypeScript backend, and a native iOS app (Swift). | [Live app](https://trophy-rooms-web.vercel.app) · [Web repo](https://github.com/G3mha/trophy-rooms-web) |
+| **Nostalgi** | Multi-vendor marketplace for retro games, modded hardware, and gaming TCGs — an Astro + React storefront and a Go (chi) API on Supabase, with Stripe Connect payouts. | [Website](https://getnostalgi.com) |
 | **Lua Compiler** | A Lua-to-x86-assembly compiler written from scratch in Swift — lexer, parser, and code generation. | [Repo](https://github.com/G3mha/lua-compiler) |
-| **enriccogemha.dev** | My portfolio, a Tron Legacy-inspired site rebuilt with Astro. | [Website](https://enriccogemha.dev) · [Repo](https://github.com/G3mha/enriccogemha.dev) |
+| **Genetic Programming** | Advanced Algorithms final project — evolving programs to fit target functions via genetic programming, in Python/Jupyter. | [Repo](https://github.com/G3mha/genetic-programming) |
 | **AWS + Terraform Full-Stack Web App** | CRUD app (FastAPI + SQLAlchemy + MySQL) with AWS infrastructure deployed automatically via Terraform. | [Repo](https://github.com/G3mha/aws-terraform-fullstack-webapp) |
 | **pwcracker** | A C tool for cracking shadow files via dictionary, rainbow-table, and brute-force techniques. | [Repo](https://github.com/G3mha/pwcracker) |
 
