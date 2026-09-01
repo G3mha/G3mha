@@ -6,12 +6,8 @@
 
 ## 📜 Certifications
 
-<a href="https://www.credly.com/badges/93f53b4d-ed60-47e9-abdd-bc266ec1bf42/public_url" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="150"/>
-</a>
-<a href="https://learn.microsoft.com/en-us/users/enriccogemha-8257/credentials/141fe52eb223f209" target="_blank">
-  <img src="img/github-foundations-badge.svg" alt="GitHub Foundations" width="150"/>
-</a>
+<a href="https://www.credly.com/badges/93f53b4d-ed60-47e9-abdd-bc266ec1bf42/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="150"/></a>
+<a href="https://learn.microsoft.com/en-us/users/enriccogemha-8257/credentials/141fe52eb223f209" target="_blank"><img src="img/github-foundations-badge.svg" alt="GitHub Foundations" width="140"/></a>
 
 ## 👨‍💻 Tech Stack
 
