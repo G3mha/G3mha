@@ -91,6 +91,20 @@
 <a href="https://twitter.com/gemhadventures" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"/></a>
 <a href="https://discordapp.com/users/723560063981060189/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
+## 💼 Experience
+
+**iOS Engineer · Software Engineer @ DAERO** — Sep 2025 to Jul 2026
+Primary engineer on the production iOS app (Swift/SwiftUI) with 262 merged PRs (~80% of the codebase history) as the platform scaled from 3 to 25 construction projects and 1,000+ field users. Built the offline-first data layer (SQLite/GRDB) and, solo, an OpenTelemetry → ClickHouse/Prometheus/Grafana observability backbone.
+
+**Founder @ OpenGiving** — May 2025 to Jun 2026
+Built a hybrid personal-fundraising + marketplace platform: FastAPI/Prisma backend, Next.js frontend, and Stripe Connect escrow, running on AWS (ECS Fargate, RDS, CloudFront) provisioned with Terraform.
+
+**Cloud Security Engineer, Capstone @ PinPag** — Jul 2024 to Dec 2024
+Rebuilt AWS ETL pipelines (Glue/Lambda/Athena) processing 15.9 GB of daily cost reports, deployed a ModSecurity + AWS WAF handling 10K+ daily requests, and added SAST scanning to a GitLab CI/CD pipeline.
+
+**Software Developer Intern @ QI Tech** — Jul 2024 to Nov 2024
+Built Python (SQLAlchemy/Falcon) APIs generating Brazil Central Bank regulatory reports from billion-row PostgreSQL tables, cutting 100+ hours of manual work; deployed infrastructure with Terraform.
+
 ## 💻 Projects Developed
 
 | Project | What it is | Links |
