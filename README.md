@@ -66,6 +66,13 @@
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+## 🗣️ Languages
+
+- 🇧🇷 Portuguese — Native
+- 🇺🇸 English — Native / Bilingual (TOEFL iBT 107/120)
+- 🇪🇸 Spanish — Professional working proficiency
+- 🇸🇪 Swedish — Elementary
+
 ## 🌐 Social Networks
 
 <a href="https://www.linkedin.com/in/enriccogemha/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -98,10 +105,15 @@
 
 - Summer Session
 
+### 🇧🇷 Insper Instituto de Ensino e Pesquisa (2021-2025)
+
+- BSc in Computer Engineering
+
 ### 🇫🇷 RoboCup (Bordeaux, France) (2023)
 
 - 4th out of 11 teams in Search and Rescue category (Rescue RMRC)
 - Awarded Best in class: Mapping
+- Awarded Best Team Challenge
 
 ### 🇹🇭 RoboCup (Bangkok, Thailand) (2022)
 
@@ -112,6 +124,11 @@
 
 - 1st place in Brazil
 - 13th place in the world
+
+### 🔭 Brazilian Astronomy Olympiad (OBA)
+
+- Silver Medal (2017)
+- Bronze Medal (2020)
 
 <br />
 
